@@ -1,0 +1,19 @@
+abstract: Project A04 explores the impact of motivation and reward on neural signalling
+  driving locomotor behaviour in mice. Circuit mechanisms, neuronal dynamics, and
+  behavioural functions of the ventral tegmental area and lateral hypothalamus interactions
+  will be investigated during free-choice and food-directed locomotion in health,
+  ageing, and obesity using calcium imaging, optogenetics, and dual-site electrophysiological
+  recordings. This project will help to understand hedonic aspects of motor functions,
+  and how alterations of reward-related processing in obesity and ageing lead to reduced
+  motor activity.
+authors:
+- {family-names: KOROTKOVA, given-names: TATIANA}
+- {family-names: Petzold, given-names: Anne}
+- {family-names: Scheffer, given-names: Robson}
+- {family-names: Bakhareva, given-names: Alisa}
+- {family-names: Mardare, given-names: Vlad}
+- {family-names: Wissing, given-names: Chantal}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: The role of the reward system in obesity- and ageing-associated changes of
+  motor behaviours
