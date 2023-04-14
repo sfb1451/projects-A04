@@ -7,7 +7,7 @@ abstract: Project A04 explores the impact of motivation and reward on neural sig
   and how alterations of reward-related processing in obesity and ageing lead to reduced
   motor activity.
 authors:
-- {family-names: KOROTKOVA, given-names: TATIANA}
+- {family-names: Korotkova, given-names: Tatiana}
 - {family-names: Petzold, given-names: Anne}
 - {family-names: Scheffer, given-names: Robson}
 - {family-names: Bakhareva, given-names: Alisa}
@@ -15,5 +15,5 @@ authors:
 - {family-names: Wissing, given-names: Chantal}
 cff-version: 1.2.0
 message: Generated with data scraped from crc1451.uni-koeln.de
-title: The role of the reward system in obesity- and ageing-associated changes of
-  motor behaviours
+title: 'A04: The role of the reward system in obesity- and ageing-associated changes
+  of motor behaviours'
