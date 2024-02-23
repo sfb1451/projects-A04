@@ -1,0 +1,28 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-files		
+# bold indicates required			
+path[POSIX]	size[bytes]	checksum[md5]	url
+Data.zip	227581	70fcb33110e6a306e143729de8b8a668	https://www.cell.com/cms/10.1016/j.cmet.2023.02.008/attachment/a70e7a8c-28f8-43da-814f-e75bb5f06669/mmc2.zip
+Methods.zip	8246381	720f168861c827ef3451967f3938d074	https://www.cell.com/cms/10.1016/j.cmet.2023.02.008/attachment/584fc089-197a-48b6-9196-ebac2cabf7a5/mmc3.zip
+Data/Fig1+S1+S2+S3.xlsx	69679	f8a590680d356b44e5ecc9df3f44e229	
+Data/Fig2+S4.xlsx	21589	70cfddc71ed3ebb801b157fb5bdb22ab	
+Data/Fig3+S5.xlsx	39294	ba283c9a4692986fc09f5d04b6aa9b09	
+Data/Fig4+S6.xlsx	58761	d01e2a63dd7e798c553e2ab50b4e8812	
+Data/Fig5.xlsx	14548	ed2d9521dfa63bf7ca671e716b0810c5	
+Data/Fig6+S7.xlsx	18235	0ba2563946411addaca3fd06ebb0fb99	
+Data/Fig7+S8.xlsx	25629	33b4a1a8367fb8c0a75c4021cd7c8dd1	
+Methods/Analysis/.Rhistory	0	d41d8cd98f00b204e9800998ecf8427e	
+Methods/Analysis/Fig_1+S1+S2+S3.Rmd	48075	5bc73f18d6729e769a9dbb81204ebd83	
+Methods/Analysis/Fig_2+S4.Rmd	11920	a65651b411340dbe5526a3dbe2d2af3b	
+Methods/Analysis/Fig_3+S5.Rmd	21631	6971fe469d23cc087758e344e756d850	
+Methods/Analysis/Fig_4+S5+S6.Rmd	28802	269e5cdbe7cbbe1fa80fbaeae8b0bf99	
+Methods/Analysis/Fig_5.Rmd	5990	efe323cadfbdf3c89920df8da82125c6	
+Methods/Analysis/Fig_6+S7C-D.Rmd	20605	5565d7cc7414937bb1b33bb324641e40	
+Methods/Analysis/Fig_7+S7M-N.Rmd	21159	644784bc0ee97bdf980087b3aca6c69e	
+Methods/Analysis/Fig_S2B-D.Rmd	7602	1922d7bd67e033fb66ed221cd6edb03b	
+Methods/Analysis/Fig_S3A-M.Rmd	16233	e8f8b57c1a476dd97ef9a3c5081fb5c2	
+Methods/Analysis/Fig_S8.Rmd	8655	1bd3968dcf5f425d31b1819727de0063	
+Methods/Modelling/Example_adaptation.R	1612	7050aa0444252fd44c38de81dd2c38b5	
+Methods/Modelling/Example_modulation.R	1095	f9485714a2cb964a9e685b0264337cb1	
+Methods/Modelling_data/LepR_Food_Restriction_binned.feather	63775384	c2df50d4d9ad6c1c7d6aad88b06cb49a	
+Methods/Readme.Rmd	1365	71f6bd87a5bf552fd52bc1af14a4553b	
+Methods/Readme.txt	1365	71f6bd87a5bf552fd52bc1af14a4553b	

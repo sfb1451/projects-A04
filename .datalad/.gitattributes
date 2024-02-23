@@ -1,1 +1,2 @@
 config annex.largefiles=nothing
+tabby/* annex.largefiles=nothing

@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-				
+# bold indicates required					
+name	LH_LeprNts_spontaneous-locomotion				
+title	LH_LeprNts_spontaneous-locomotion				
+description	LH_LepRNts_spontaneous-locomotion is a dataset of single-cell calcium imaging transients of LepR+ or Nts+ cells in the lateral hypothalamus (LH) of male mice during sponteous exploration of a free feeding enclosure during sated, acutely hungry, and chronically hungry state, to be used to compare state-dependent stimulus response profiles during sponanteous locomotion of both cell populations. Data were collected by Dr. Anne Petzold in the lab of Prof. Tatiana Korotkova.				
+crc-project	A04				
+version	0.1.0.				
+sample[organism]	NCBITaxon:477815				
+sample[organism-part]	UBERON:0003101	UBERON:0007023	UBERON:0000955		
+keywords	spontaneous-locomotion	lateral_hypothalamus	leptin_signaling	neurotensin	hunger
+license					
+doi	10.1016/j.cmet.2023.02.008				
+homepage					
+last-updated	2020-09-09				
